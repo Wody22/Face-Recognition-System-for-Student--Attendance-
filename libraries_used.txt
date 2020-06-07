@@ -1,0 +1,10 @@
+cx_Freeze
+cv2 - pip install opencv-python
+tkinter 
+shutil
+csv
+numpy 
+PIL 
+pandas as pd
+datetime
+time
